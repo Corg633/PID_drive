@@ -8,6 +8,9 @@ Basic code for Differential Drive platform to follow the line. Educational demo 
 
 https://github.com/user-attachments/assets/b62e2fe1-5da9-43dd-88be-5650a3f0bf1d
 
+# Connection Diagram (In Progress):
+![diagram](https://github.com/user-attachments/assets/868966c1-4a45-424f-b1ee-3386dddcd071)
+
 # Prerequisites
 
 ## Hardware:
@@ -74,10 +77,6 @@ Capture of output and set point values for PID controllers of R and L Motors:
 Capture with Logic Analyser of generated and recieved signals for H-bridge Motor Driver and for Rotary Encoder:
 
 ![PWM_ENC1](https://github.com/user-attachments/assets/895d398e-8ad9-46f9-bad9-733c3b6ee8a6)
-
-
-## Connection Diagram (In Progress):
-![diagram](https://github.com/user-attachments/assets/868966c1-4a45-424f-b1ee-3386dddcd071)
 
 # Features
 Developed Differential Drive Platrform has Intel Realsense RGBD Camera D435 and deployed ORB_SLAM3 algorithm. Link: (https://github.com/UZ-SLAMLab/ORB_SLAM3).
