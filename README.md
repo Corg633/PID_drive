@@ -22,6 +22,9 @@ Raspberry Pi 4, Model B.
 - RPI.GPIO: Built-in Raspberry OS
 - pigipio: Installation guide: https://abyz.me.uk/rpi/pigpio/download.html
 
+# Installation:
+    git clone https://github.com/Corg633/PID_drive.git
+
 # Project's Description
 
 ## PWM generation for DC Motors and H-bridge:
@@ -42,6 +45,22 @@ Short illustration:
 
 Full guide and reference: https://makeatronics.blogspot.com/2013/02/efficiently-reading-quadrature-with.html
 
+## Angular Velocity Calculation:
+
+Short illustration:
+![image](https://github.com/user-attachments/assets/580b07ae-5889-4973-b4eb-bbcfefefd93d)
+
+Full explanation: https://www.grc.nasa.gov/www/k-12/airplane/angdva.html
+
+## Discrete PID Controller:
+
+Short illustration:
+
+![image](https://github.com/user-attachments/assets/dfed391a-526c-4ca1-93dc-b75aec72bf32)
+![image](https://github.com/user-attachments/assets/ac2e8bde-1106-4c49-9cf5-b49e1c3558a7)
+
+Full guide and reference: https://thingsdaq.org/2022/04/07/digital-pid-controller/
+
 # PID setup:
 
 PID controller for Left(L) and Right(R) Motors with Encoders in action:
@@ -61,7 +80,7 @@ Capture with Logic Analyser of generated and recieved signals for H-bridge Motor
 ![diagram](https://github.com/user-attachments/assets/868966c1-4a45-424f-b1ee-3386dddcd071)
 
 # Features
-Developed Differential Drive Platrform has Intel Realsense Camera and deployed ORB_SLAM3 algorithm. Link: (https://github.com/UZ-SLAMLab/ORB_SLAM3).
+Developed Differential Drive Platrform has Intel Realsense RGBD Camera D435 and deployed ORB_SLAM3 algorithm. Link: (https://github.com/UZ-SLAMLab/ORB_SLAM3).
 
 Captured instance of estimated pose by ORB-SLAM3 algorithm:
 
