@@ -1,8 +1,8 @@
 # PID_drive
 Basic code for Differential Drive platform to follow the line. Educational demo was developed for Mayflower S.T.E.M. Academy sessions.
 
-![Robo_Front](https://github.com/user-attachments/assets/b47a267d-74b2-4c02-9f3d-8820abeeda4b)
-![Robo  Bottom](https://github.com/user-attachments/assets/5f3aaf00-db08-4274-9430-9cfc43296ea6)
+![Robo_Front](https://github.com/user-attachments/assets/52f3b3ae-5d63-4fe7-8bdf-2ac3f340e6e3)
+![Robo  Bottom](https://github.com/user-attachments/assets/04a866a4-0878-4873-90f9-9dcf58015cdf)
 
 # Demo
 
@@ -31,7 +31,7 @@ Raspberry Pi 4, Model B.
 Short illustration:
 
 ![image](https://github.com/user-attachments/assets/51e4f7cf-f50f-4397-be0b-229a5920e037)
-![image](https://github.com/user-attachments/assets/6d8dc582-8cac-4a46-adae-402458cff695)
+![H-Bridge](https://github.com/user-attachments/assets/fbc32892-c1a1-4aa0-9e53-eeb5e9573acc)
 
 Full guide and reference: https://www.ti.com/lit/ab/sboa174d/sboa174d.pdf?ts=1722116467092&ref_url=https%253A%252F%252Fwww.google.com%252F
 
