@@ -30,7 +30,7 @@ Raspberry Pi 4, Model B.
 ## PWM generation for DC Motors and H-bridge:
 Short illustration:
 
-![image](https://github.com/user-attachments/assets/51e4f7cf-f50f-4397-be0b-229a5920e037)
+![PWM](https://github.com/user-attachments/assets/79de7099-89f4-40e8-a52f-758783681433)
 ![H-Bridge](https://github.com/user-attachments/assets/fbc32892-c1a1-4aa0-9e53-eeb5e9573acc)
 
 Full guide and reference: https://www.ti.com/lit/ab/sboa174d/sboa174d.pdf?ts=1722116467092&ref_url=https%253A%252F%252Fwww.google.com%252F
