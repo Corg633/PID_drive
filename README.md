@@ -9,7 +9,7 @@ Basic code for Differential Drive platform to follow the line. Educational demo 
 https://github.com/user-attachments/assets/b62e2fe1-5da9-43dd-88be-5650a3f0bf1d
 
 # Connection Diagram (In Progress):
-![diagram](https://github.com/user-attachments/assets/868966c1-4a45-424f-b1ee-3386dddcd071)
+![Connection_Diagram](https://github.com/user-attachments/assets/73c06f6d-6ea0-4a98-9926-3a154d0e6648)
 
 # Prerequisites
 
