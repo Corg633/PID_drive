@@ -1,5 +1,4 @@
 # PID_drive
-Basic code for Differential Drive platform to follow the line. Educational demo was developed for Mayflower S.T.E.M. Academy sessions.
 
 ![Robo_Front](https://github.com/user-attachments/assets/52f3b3ae-5d63-4fe7-8bdf-2ac3f340e6e3)
 ![Robo  Bottom](https://github.com/user-attachments/assets/04a866a4-0878-4873-90f9-9dcf58015cdf)
