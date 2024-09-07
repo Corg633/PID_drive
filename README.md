@@ -85,4 +85,5 @@ Captured instance of estimated pose by ORB-SLAM3 algorithm:
 ![20240724_190209](https://github.com/user-attachments/assets/ae9a795f-8339-4a6a-80f4-2724bda85333)
 
 Recorded Log files:
-[KeyFrameTrajectory.txt](https://github.com/user-attachments/files/16919356/KeyFrameTrajectory.txt)[CameraTrajectory.txt](https://github.com/user-attachments/files/16919357/CameraTrajectory.txt)
+[KeyFrameTrajectory.txt](https://github.com/user-attachments/files/16919356/KeyFrameTrajectory.txt)
+[CameraTrajectory.txt](https://github.com/user-attachments/files/16919357/CameraTrajectory.txt)
