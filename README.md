@@ -59,7 +59,7 @@ Full explanation: https://www.grc.nasa.gov/www/k-12/airplane/angdva.html
 Short illustration:
 
 ![image](https://github.com/user-attachments/assets/dfed391a-526c-4ca1-93dc-b75aec72bf32)
-![image](https://github.com/user-attachments/assets/ac2e8bde-1106-4c49-9cf5-b49e1c3558a7)
+![image](<img width="1920" height="1080" alt="352865749-895d398e-8ad9-46f9-bad9-733c3b6ee8a6" src="https://github.com/user-attachments/assets/0d0ce52f-ee05-4389-a02d-85c827256dc5" />)
 
 Full guide and reference: https://thingsdaq.org/2022/04/07/digital-pid-controller/
 
