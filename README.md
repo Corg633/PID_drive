@@ -75,7 +75,7 @@ Capture of output and set point values for PID controllers of R and L Motors:
 
 Capture with Logic Analyser of generated and recieved signals for H-bridge Motor Driver and for Rotary Encoder:
 
-![PWM_ENC1](https://github.com/user-attachments/assets/895d398e-8ad9-46f9-bad9-733c3b6ee8a6)
+![PWM_ENC1](<img width="1920" height="1080" alt="352865749-895d398e-8ad9-46f9-bad9-733c3b6ee8a6_f" src="https://github.com/user-attachments/assets/99e2db46-107d-4e63-904c-12e50e6ae207" />)
 
 # Features
 Developed Differential Drive Platrform has Intel Realsense RGBD Camera D435 and deployed ORB_SLAM3 algorithm. Link: (https://github.com/UZ-SLAMLab/ORB_SLAM3).
